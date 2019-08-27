@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62114" started-at="2019-08-26T17:12:01Z" finished-at="2019-08-26T17:13:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62114" started-at="2019-08-26T17:12:01Z" finished-at="2019-08-26T17:13:03Z">
+      <class name="driverScripts.LoginPage">
+        <test-method status="PASS" signature="readFromTheResources()[pri:0, instance:driverScripts.LoginPage@4c70fda8]" name="readFromTheResources" is-config="true" duration-ms="36" started-at="2019-08-26T17:12:01Z" finished-at="2019-08-26T17:12:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readFromTheResources -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:driverScripts.LoginPage@4c70fda8]" name="openBrowser" is-config="true" duration-ms="61996" started-at="2019-08-26T17:12:01Z" finished-at="2019-08-26T17:13:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="loginAutomate()[pri:0, instance:driverScripts.LoginPage@4c70fda8]" name="loginAutomate" duration-ms="14" started-at="2019-08-26T17:13:03Z" finished-at="2019-08-26T17:13:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAutomate -->
+      </class> <!-- driverScripts.LoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
